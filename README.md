@@ -33,13 +33,13 @@ Delete the old `Balatro-Colour-Selector` folder (and any inner `Colour Selector`
 
 ### See my other mods and forks
 
-- [Balatro-Fit-To-Screen](https://github.com/SilvertongueRED/Balatro-Fit-To-Screen) ([Nexus Mods](https://www.nexusmods.com/balatro/mods/1001))
-- [Balatro-Mod-Search-and-Sort](https://github.com/SilvertongueRED/Balatro-Mod-Search-and-Sort) ([Nexus Mods](https://www.nexusmods.com/balatro/mods/984))
-- [Balatro-Mod-Updater](https://github.com/SilvertongueRED/Balatro-Mod-Updater)
-- [Balatro-SaveRewinder-Config-Fix](https://github.com/SilvertongueRED/Balatro-SaveRewinder-Config-Fix)
-- [Trance-Active-and-Updated](https://github.com/SilvertongueRED/Trance-Active-and-Updated)
-- [Balatro-Preview-Accuracy-Update](https://github.com/SilvertongueRED/Balatro-Preview-Accuracy-Update)
-- [BalatroMods-HoldForFinalHandScore-Update](https://github.com/SilvertongueRED/BalatroMods-HoldForFinalHandScore-Update)
-- [Better Mouse and Gamepad (bmag)](https://github.com/SilvertongueRED/bmag)
-- [Balatro-Music-Selector-Fixes-and-Features](https://github.com/SilvertongueRED/Balatro-Music-Selector-Fixes-and-Features)
+- [Balatro-Fit-To-Screen](https://github.com/SilvertongueRED/Balatro-Fit-To-Screen) ([Nexus Mods](https://www.nexusmods.com/balatro/mods/1001)) - stops tall pause menus and sidebars from being cut off at the top and bottom of your screen
+- [Balatro-Mod-Search-and-Sort](https://github.com/SilvertongueRED/Balatro-Mod-Search-and-Sort) ([Nexus Mods](https://www.nexusmods.com/balatro/mods/984)) - search, filter and sort the Mods menu without messing up the load order
+- [Balatro-Mod-Updater](https://github.com/SilvertongueRED/Balatro-Mod-Updater) - keeps your mods, Steamodded and Lovely up to date, with backups and a rescue screen when an update breaks the game
+- [Balatro-SaveRewinder-Config-Fix](https://github.com/SilvertongueRED/Balatro-SaveRewinder-Config-Fix) - Save Rewinder fork with a config fix: automatic save points and one key to rewind
+- [Trance-Active-and-Updated](https://github.com/SilvertongueRED/Trance-Active-and-Updated) - colour and font manager that recolours the whole game, maintained fork
+- [Balatro-Preview-Accuracy-Update](https://github.com/SilvertongueRED/Balatro-Preview-Accuracy-Update) - previews the score and dollars you will get from the selected cards, accuracy update
+- [BalatroMods-HoldForFinalHandScore-Update](https://github.com/SilvertongueRED/BalatroMods-HoldForFinalHandScore-Update) - holds the final hand score on screen long enough to read it
+- [Better Mouse and Gamepad (bmag)](https://github.com/SilvertongueRED/bmag) - bind any key or button to quick actions like multiselect, easier on your hands
+- [Balatro-Music-Selector-Fixes-and-Features](https://github.com/SilvertongueRED/Balatro-Music-Selector-Fixes-and-Features) - pick extra soundtracks or your own music without installing all of Cardsauce
 <!-- other-mods:end -->
