@@ -1,1 +1,0 @@
-{["colour1"] = G.C.RED, ["colour2"] = G.C.BLUE, ["name1"] = "G.C.RED", ["name2"] = "G.C.BLUE"}

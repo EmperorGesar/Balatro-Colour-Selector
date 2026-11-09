@@ -1,0 +1,19 @@
+{
+  "id": "MainMenuThemeSelector",
+  "name": "Main Menu Theme Selector",
+  "display_name": "Main Menu Theme Selector",
+  "author": [
+    "EmperorGesar",
+    "SilvertongueRED"
+  ],
+  "description": "Choose your main menu look: pick the background colours yourself (they always win over mod themes), and cycle the background theme and the title logo of every mod that has one.",
+  "prefix": "csel",
+  "main_file": "main.lua",
+  "priority": 100000,
+  "badge_colour": "3A6EA5",
+  "badge_text_colour": "FFFFFF",
+  "version": "2.0.0",
+  "dependencies": [
+    "Steamodded (>=1.*~)"
+  ]
+}
